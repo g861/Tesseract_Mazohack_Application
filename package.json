@@ -1,0 +1,49 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.8.1",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.4.2",
+    "@react-navigation/bottom-tabs": "^6.2.0",
+    "@react-navigation/material-top-tabs": "^6.1.1",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/stack": "^6.1.1",
+    "axios": "^0.26.0",
+    "expo": "~44.0.0",
+    "expo-status-bar": "~1.2.0",
+    "native-base": "^2.15.2",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-gesture-handler": "^2.1.1",
+    "react-native-keyboard-aware-scroll-view": "^0.9.5",
+    "react-native-pager-view": "^5.4.11",
+    "react-native-reanimated": "^2.4.1",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.11.1",
+    "react-native-svg": "^12.1.1",
+    "react-native-swipe-list-view": "^3.2.9",
+    "react-native-swiper": "^1.6.0",
+    "react-native-tab-view": "^3.1.1",
+    "react-native-toast-message": "^2.1.1",
+    "react-native-vector-icons": "^9.0.0",
+    "react-native-web": "0.17.1",
+    "react-navigation": "^4.4.4",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
